@@ -1,5 +1,5 @@
 # ex6 MVC (NodeJS-Express-EJS) and database neviim
-# Authors: Micha Briskman - 208674173 Shlomo Gulayev - 318757382
+# Authors: Micha Briskman -  Shlomo Gulayev - 
 # Emails: michabri@edu.hac.ac.il, shlomogu@edu.hac.ac.il
 
 In this exercise we made a "social media" site for displaying images of NASA with comments. <br />
